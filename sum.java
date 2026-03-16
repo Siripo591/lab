@@ -4,6 +4,6 @@ public class sum{
         int b=5;
 
 print("Hello from jenkins CI/CD pipeline");  
-        print("Hello from jenkins CI/CD pipeline"); 
+        print("Hello from jenkins CI/CD pipeline")
     }
 }

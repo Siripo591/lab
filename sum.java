@@ -3,6 +3,6 @@ public class sum{
         int a=10;
         int b=5;
 
-        System.out.println("Sum:"+(a+
+        System.out.pri
     }
 }
